@@ -350,9 +350,9 @@ ul{
     margin-bottom: 20px;
 }
 .is .skills .skills-items .progress .progress-in{
-    background-color:black;
+    background-color: grey;
     color: orange;
-    height: 5px;
+    height: 20px;
     border-radius: 2px;
     width: 100%;
     position: relative;
@@ -360,7 +360,10 @@ ul{
     top: 0;
 }
 .is .skills .skills-items .skill-percent{
-    font-weight: bold;
+    font-weight: 500;
+    color: black;
+    font-size: 13px;
+
 }
 .about {
     margin-left: 130px;
